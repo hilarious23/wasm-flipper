@@ -16,7 +16,7 @@ Install swanky cli https://github.com/AstarNetwork/swanky-cli
 
 ##### Deploy flipper contract
 0. Init \
-In the root workspace `Cargo.toml` uncomment the line `"flipper/flipper/contracts/*"` \
+
 In `./flipper` folder run `swanky init flipper` and chose `flipper` as template and as contract name. Chose `Y` when asking to download swanky node.
 
 1. Start the local node

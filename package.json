@@ -1,5 +1,5 @@
 {
-  "name": "ink-flipper",
+  "name": "wasm-flipper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
